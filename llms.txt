@@ -1,0 +1,34 @@
+# Dhiren Bhardwaj
+
+> Dhiren Bhardwaj (also spelled Dhiren Bharadwaj) is a Digital Forensics & Incident Response (DFIR) and SOC leader based in India, with 11+ years of experience across AT&T, Kotak Mahindra Bank, Microsoft, Deloitte, Mahindra Special Services Group and eSF Labs. He specialises in end-to-end incident response, digital forensics (disk, memory, mobile, email), cloud IR, threat hunting, SOC strategy and AI-augmented incident response.
+
+## Identity
+- Name: Dhiren Bhardwaj
+- Role: Senior DFIR Analyst, AT&T (Hyderabad) — Mar 2026–present
+- Email: dhiren102@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhirenbhardwaj
+- GitHub: https://github.com/dhirenbhardwaj
+- Blog: https://digitalforensicforest.wordpress.com
+
+## Experience
+- AT&T — Senior DFIR Analyst (Mar 2026–present): leads DFIR investigations (phishing, malware, insider threat, unauthorized access); end-to-end incident management; endpoint/server/memory/cloud forensics with chain of custody.
+- Kotak Mahindra Bank — Deputy Vice President, SOC & IR Lead (Feb 2024–Feb 2026): L2/L3 SOC investigations in regulated banking; email compromise & insider misuse forensics; IR runbooks & tabletop exercises; analyst mentoring; NIST CSF / MITRE ATT&CK alignment.
+- Microsoft — Security Engineer II, Global Security Operations (Jan 2022–Jan 2024): global IR on Sentinel/Defender/MCAS/O365; IR automation → 25% SLA improvement, 50% manual effort reduction; KQL-driven investigations.
+- Deloitte — Assistant Manager, Digital Forensics & Cyber Investigations (Nov 2017–Jan 2022): forensic engagements for enterprise/financial clients; memory forensics; built ELK-based log analysis platforms.
+- Mahindra Special Services Group — Digital Forensic Analyst (Feb 2016–Oct 2017).
+- eSF Labs — Digital Forensic Analyst (Jul 2014–Feb 2016): forensic imaging, RAM analysis, mobile forensics.
+
+## Education & Certifications
+- M.S. Digital Forensics & Information Assurance — Gujarat Forensic Sciences University (2012–2014)
+- B.Tech — Poornima College of Engineering (2006–2010)
+- EnCase Certified Examiner (EnCE); Microsoft AZ-900 & SC-900 (2023); AccessData ACE; Intella Basic & Advanced
+
+## Projects (AI security tooling)
+- AI-Native DFIR Investigation Lab (flagship, completed, release pending): MCP (Model Context Protocol) server + simulated SIEM in SQLite (Azure AD/Sentinel/Defender-style tables) with 5 seeded attack scenarios (AiTM impossible travel T1078, password spray T1110.003, brute force T1110.001, suspicious app access T1528) and 7 agent-callable investigation tools for AI agents.
+- AI-SOC Email Triage & Forensics (open source): Python tool parsing .eml files into structured JSON with Base64-safe attachment handling, then using Google Gemini for phishing/threat analysis. https://github.com/dhirenbhardwaj/SOC-DFIR-AI-Email-Triage
+- MalNote — Intelligent Malware Note Generator (open source): SHA-256 hashing + local ClamAV scan + threat-intel correlation across VirusTotal, AlienVault OTX, ThreatFox and MalwareBazaar, generating Markdown DFIR notes with optional Gemini AI recommendations. https://github.com/dhirenbhardwaj/MalNoteGenerator
+- Volatility Output Analysis using AI (open source): applies LLM analysis to Volatility memory-forensics output to surface suspicious processes and artifacts from RAM dumps. https://github.com/dhirenbhardwaj/Volatility-output-Analysis-using-AI-
+- Digital Forensic Forest — long-running DFIR blog. https://digitalforensicforest.wordpress.com
+
+## Skills
+DFIR (disk, memory, mobile, email, insider), threat hunting, malware analysis, Microsoft Sentinel, Splunk, ELK, Defender/MCAS, EDR/XDR, KQL, Sigma, EnCase, FTK, Volatility, Cellebrite, Magnet Axiom, X-Ways, SIFT, MITRE ATT&CK, NIST CSF, Python, PowerShell, AI-augmented IR, purple teaming.
